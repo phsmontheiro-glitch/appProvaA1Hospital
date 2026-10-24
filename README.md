@@ -43,8 +43,6 @@ O projeto continua em desenvolvimento e será atualizado conforme o avanço das 
 
 Desenvolvido por [phsmontheiro-glitch](https://github.com/phsmontheiro-glitch).
 
-**Repositório:** [appProvaA1Hospital](https://github.com/phsmontheiro-glitch/appProvaA1Hospital)
-
 ---
 
 *Projeto acadêmico da disciplina de Programação para Dispositivos Móveis.*
